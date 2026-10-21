@@ -291,6 +291,8 @@ Use this order: executive summary; problem; discovery findings; requirements; ar
 
 Use this approximate flow: problem (0-2 min); discovery (2-5); system (5-7); live demonstration including response, escalation, block, and unattended-run evidence (7-14); results and limitations (14-17); governance/risk (17-18); next steps and revision lessons (18-20). Be visible for introduction and close.
 
+Use the Hyperframes plugin for video generation and editing where it improves production quality, such as titles, transitions, captions, visual explainers, and post-production. It must not replace the required live system demonstration or fabricate evaluation evidence. Preserve the original demonstration recording, distinguish generated visuals from actual system output, and include the required declaration of AI tool use in the submission.
+
 ## 15. Final pre-submission checklist
 
 - [ ] Clean checkout follows README exactly.
@@ -304,6 +306,7 @@ Use this approximate flow: problem (0-2 min); discovery (2-5); system (5-7); liv
 - [ ] Five workbooks and effort log are genuinely completed.
 - [ ] Report follows its required order and length.
 - [ ] Video includes live response, escalation, guardrail block, and unattended-run evidence.
+- [ ] Hyperframes-generated or edited material is disclosed, while live system evidence remains unaltered and traceable to the original recording.
 - [ ] Archive has exactly the required four top-level folders and correct naming.
 
 ## 16. Current status ledger
